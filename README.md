@@ -8,11 +8,8 @@ The documents demonstrate my approach to structuring information, writing clear 
 
 ## Contents
 
-- **User Guide: Export Sales Report to Excel**  
-  Step-by-step instructions for business users on how to export sales data from a dashboard into an Excel file.
-
-- **FAQ: Sales Dashboard Export**  
-  A list of frequently asked questions related to exporting sales reports, including common issues and their solutions.
+- User Guide: Export Sales Report to Excel (`docs/user-guide-export-sales-report.md`)  
+- FAQ: Sales Dashboard Export (`docs/faq-sales-dashboard.md`)
 
 ---
 
